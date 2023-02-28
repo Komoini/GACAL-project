@@ -141,7 +141,9 @@
 .carousel-wrapper{
   margin-left: 25%;
 }
-
+.contactSec{
+  margin: 0 10vw;
+}
 
 @keyframes slide-in-anim {
   20% {
