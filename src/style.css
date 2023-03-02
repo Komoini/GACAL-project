@@ -144,6 +144,9 @@
 .contactSec{
   margin: 0 10vw;
 }
+.option1{
+  height: 20%;
+}
 
 @keyframes slide-in-anim {
   20% {
