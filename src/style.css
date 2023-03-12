@@ -148,6 +148,10 @@
 .option1{
   height: 20%;
 }
+.hamburger:focus{
+  outline: none;
+  border-color: blue;
+}
 
 @keyframes slide-in-anim {
   20% {
